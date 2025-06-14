@@ -1,0 +1,2 @@
+# Week-1
+Garbage Classification project uses AI to categorize waste into types like recyclable, organic, or hazardous based on images. It promotes efficient waste management and recycling. A great project for AI/ML beginners, applying image classification techniques.
